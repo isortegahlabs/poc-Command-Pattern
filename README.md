@@ -22,11 +22,13 @@ correspondiente que ejecuta el comando.
 ### Ejercicios
 
 * [Gestor de Tareas](src/main/scala/me/isortegah/labs/gestorTareas/Principal.java)
+* [Gestor de Ordenes](src/main/java/me/isortegah/labs/gestorOrdenes/CommandPatternDemo.java)
+* [Editor](src/main/java/me/isortegah/labs/gestorEditor/Demo.java)
 
 ## Reference
 * [Command Pattern en Java y la gestion de tareas](https://www.arquitecturajava.com/command-pattern-tareas/)
 * [Design Patterns - Command Pattern](https://www.tutorialspoint.com/design_pattern/command_pattern.htm)
-https://refactoring.guru/design-patterns/command
+* [Command](https://refactoring.guru/design-patterns/command)
 https://sourcemaking.com/design_patterns/command
 https://www.geeksforgeeks.org/command-pattern/
 https://medium.com/better-programming/the-command-design-pattern-2313909122b5
