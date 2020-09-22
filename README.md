@@ -17,8 +17,6 @@ Lo que debemos comprender es el hecho de que una solicitud se encapsula en un ob
 invocador. El objeto invocador busca el objeto apropiado que puede manejar este comando y pasa el comando al objeto 
 correspondiente que ejecuta el comando.
 
-
-
 ### Ejercicios
 
 * [Gestor de Tareas](src/main/scala/me/isortegah/labs/gestorTareas/Principal.java)
@@ -28,10 +26,10 @@ correspondiente que ejecuta el comando.
 ## Reference
 * [Command Pattern en Java y la gestion de tareas](https://www.arquitecturajava.com/command-pattern-tareas/)
 * [Design Patterns - Command Pattern](https://www.tutorialspoint.com/design_pattern/command_pattern.htm)
-* [Command](https://refactoring.guru/design-patterns/command)
-https://sourcemaking.com/design_patterns/command
-https://www.geeksforgeeks.org/command-pattern/
-https://medium.com/better-programming/the-command-design-pattern-2313909122b5
-https://www.dofactory.com/net/command-design-pattern
-https://www.journaldev.com/1624/command-design-pattern
-https://javarevisited.blogspot.com/2016/05/command-design-pattern-in-java-example-code.html
+* **[Command](https://refactoring.guru/design-patterns/command)**
+* [Command Design Pattern](https://sourcemaking.com/design_patterns/command)
+* [Command Pattern](https://www.geeksforgeeks.org/command-pattern/)  
+* [The Command Design Pattern](https://medium.com/better-programming/the-command-design-pattern-2313909122b5)
+* [Command .NET](https://www.dofactory.com/net/command-design-pattern)
+* [Command Design Pattern](https://www.journaldev.com/1624/command-design-pattern)
+* [How to implement Command Design Pattern in Java with Example](https://javarevisited.blogspot.com/2016/05/command-design-pattern-in-java-example-code.html)
